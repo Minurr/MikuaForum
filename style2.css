@@ -1,0 +1,105 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            border: 1px solid #ddd;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #0077cc;
+        }
+        
+        a:hover{
+            text-decoration:underline;
+            color: #2F4F4F;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+
+        customContextMenu {
+            display: none;
+            position: absolute;
+            background: #fff;
+            border: 1px solid #ccc;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+            padding: 0;
+            list-style: none;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        customContextMenu li {
+            padding: 10px;
+            cursor: pointer;
+        }
+        
+        .register-link {
+            font-size: 14px;
+            margin-top: 20px;
+        }
+
+        .register-link a {
+            color: #445e99;
+            text-decoration: none;
+        }
+        
+        a:hover{TEXT-DECORATION:underline}

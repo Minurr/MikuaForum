@@ -1,0 +1,107 @@
+/* Reset default styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Header styles */
+header {
+    background-color: #4a235a;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.header-content {
+    display: flex;
+    background-color: #4a235a;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user-info {
+    text-align: right;
+}
+
+.user-info a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+.post-list {
+    list-style: none;
+    padding: 0;
+}
+
+.post-item {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.post-item h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.author-info {
+    font-size: 14px;
+    color: #888;
+}
+
+.floating-button {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #3498db;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Menu container */
+.menu-container {
+    position: fixed;
+    bottom: 100px;
+    right: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    display: none;
+    z-index: 1000;
+}
+
+/* Menu item styles */
+.menu-item {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+}
+
+/* Hover effect for menu items */
+.menu-item:hover {
+   background-color: #f5f5f5;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
