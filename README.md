@@ -41,3 +41,11 @@
 ## 关于开发者
 
 兴趣使然，写了一个自己母校的论坛，前后经历了ui以及架构重构的几次大更新，发现目前没有很多方便的开源论坛网站，于是打算将我的网站开源，希望你喜欢我的作品，同时也能支持一下。
+
+## 反馈照片
+
+![主页1](https://qlxx.fun/photoo/index.jpg)
+![主页2](https://qlxx.fun/photoo/index2.jpg)
+![查看帖子](https://qlxx.fun/photoo/view.jpg)
+![管理界面](https://qlxx.fun/photoo/admin.jpg)
+
