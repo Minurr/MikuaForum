@@ -44,8 +44,7 @@
 
 ## 反馈照片
 
-![主页1](https://qlxx.fun/photoo/index.jpg)
+![管理界面](https://qlxx.fun/photoo/admin.jpg)
 ![主页2](https://qlxx.fun/photoo/index2.jpg)
 ![查看帖子](https://qlxx.fun/photoo/view.jpg)
-![管理界面](https://qlxx.fun/photoo/admin.jpg)
 
