@@ -1,4 +1,8 @@
 
+## <h1>该项目已停止维护</h1>
+**本版本不是最新版本，但由于某种原因，决定不上传最新版本至Github**
+<br>**该项目由于某些原因，已停止维护**
+
 
 ## **MikuaForum是什么?**
 
@@ -26,7 +30,7 @@
 * 支持`分享帖子`功能，自动生成短链接复制不怕链接过长。
 * 注册功能接入`互忆无线`的短信api，可自行删除。
 
-**测试网站：** https://szqlxx.mikua.icu/
+**测试网站：** https://qlxx.mfur.cn/
 
 ## 问题反馈
 
@@ -35,8 +39,8 @@
 * 邮件(minurfurry@gmail.com)
 * 微信: MinurFurry
 * QQ: 3031692859
-* telegram: [@Minur_](http://t.me/Minur_Fur)
-* twitter: [@Minur](http://twitter.com/NewWave114514)
+* telegram: [@Minur_](http://t.me/Minurrr)
+* twitter: [不公开](http://exmaple.com/)
 
 ## 关于开发者
 
