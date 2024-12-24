@@ -33,6 +33,7 @@
 * 注册功能接入`互忆无线`的短信api，可自行删除。
 
 **测试网站：** https://qlxx.mfur.cn/
+<br>已失效
 
 ## 问题反馈
 
@@ -42,14 +43,15 @@
 * 微信: MinurFurry
 * QQ: 3031692859
 * telegram: [@Minur_](http://t.me/Minurrr)
-* twitter: [不公开](http://exmaple.com/)
+* twitter: [*](http://exmaple.com/)
 
 ## 关于开发者
 
-兴趣使然，写了一个自己母校的论坛，前后经历了ui以及架构重构的几次大更新，发现目前没有很多方便的开源论坛网站，于是打算将我的网站开源，希望你喜欢我的作品，同时也能支持一下。
+兴趣使然，初中二年级时写了一个自己母校的论坛，前后经历了ui以及架构重构的几次大更新，发现目前没有很多方便的开源论坛网站，于是打算将我的网站开源，希望你喜欢我的作品，同时也能支持一下。
 
 ## 反馈照片
 
+已失效<br>
 ![管理界面](https://qlxx.fun/photoo/admin.jpg)
 ![主页2](https://qlxx.fun/photoo/index2.jpg)
 ![查看帖子](https://qlxx.fun/photoo/view.jpg)
