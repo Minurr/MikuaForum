@@ -3,6 +3,7 @@
 **本版本不是最新版本，但由于某种原因，决定不上传最新版本至Github**
 <br>**该项目由于某些原因，已停止维护**
 
+初二水平太低了，写的非常非常恶心，臃肿至极，几乎没有优化。。。不介意损耗性能的话再用吧
 
 ## **MikuaForum是什么?**
 
@@ -43,7 +44,7 @@
 * 微信: MinurFurry
 * QQ: 3031692859
 * telegram: [@Minur_](http://t.me/Minurrr)
-* twitter: [*](http://exmaple.com/)
+* twit
 
 ## 关于开发者
 
